@@ -1,0 +1,3 @@
+[submodule "Main/CommonUI"]
+	path = Main/CommonUI
+	url = https://github.com/coolom/CommonUI.git
